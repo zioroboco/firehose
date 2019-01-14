@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "jsx": "preserve",
+    "lib": ["dom", "es6"],
     "outDir": "dist",
     "allowJs": true
   },
